@@ -10,7 +10,7 @@ pkg install tsu -y && hash -r
 
 pkg up -ypkg install wget openssl-tool proot -y && hash -r && wget https://github.com/LaloQuera710/DEB-BOOTSTRAP-STR/raw/main/KALI-STR.sh && bash KALI-STR.sh
 
-./start-kali.sh
+./start-KALI-STR.sh
 
 wget https://github.com/LaloQuera710/DEB-BOOTSTRAP-STR/raw/main/TerminalRaw.sh --no-check-certificate && bash TerminalRaw.sh
 
