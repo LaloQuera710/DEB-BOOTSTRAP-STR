@@ -8,11 +8,11 @@ pkg install x11-repo -y
 
 pkg install tsu -y && hash -r
 
-pkg up -ypkg install wget openssl-tool proot -y && hash -r && wget https://github.com/LaloQuera710/DEB-BOOTSTRAP-STR/raw/main/KALI-STR.sh && bash kali.sh
+pkg up -ypkg install wget openssl-tool proot -y && hash -r && wget https://github.com/LaloQuera710/DEB-BOOTSTRAP-STR/raw/main/KALI-STR.sh && bash KALI-STR.sh
 
 ./start-kali.sh
 
-wget https://github.com/LaloQuera710/DEB-BOOTSTRAP-STR/raw/main/TerminalRaw.sh --no-check-certificate && bash de-apt-xfce4.sh
+wget https://github.com/LaloQuera710/DEB-BOOTSTRAP-STR/raw/main/TerminalRaw.sh --no-check-certificate && bash TerminalRaw.sh
 
 https://play.google.com/store/apps/details?id=com.iiordanov.freebVNC
 
