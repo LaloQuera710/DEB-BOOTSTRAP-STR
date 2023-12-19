@@ -1,3 +1,5 @@
+wget https://github.com/LaloQuera710/DEB-BOOTSTRAP-STR/raw/main/os.sh
+
 clear
 echo -e "\e[31m      @@@@@@ @@@@@@@ @@@@@@@    "  
 echo -e "\e[31m     !@@       @!!   @@!  @@@  "   
