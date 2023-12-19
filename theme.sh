@@ -10,9 +10,8 @@ echo -e "\e[92m
  
 echo -e " \e[91m                                                   ____      _____  " 
 echo -e " \e[91m                                                  / __ \    / ____\ " 
-echo -e " \e[96m                                                 / /  \ \  ( (___   " 
 echo -e " \e[96m                                                ( ()  () )  \___ \  " 
-echo -e " \e[1;91m Youtube\e[96m / \e[100;97myoutube.com/h4ck3r0\e[0;31m                  ( ()  () )      ) )" 
+echo -e " \e[1;91m Youtube\e[96m / \e[100;https://strcozumel.000webhostapp.com//h4ck3r0\e[0;31m                  ( ()  () )      ) )" 
 echo -e " \e[1;91m Github\e[96m /\e[1;93m H4Ck3R0                                \ \__/ /   ___/ /"  
 echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m H4Ck3R_0                              \____/   /____/"    
 echo ""
