@@ -1,0 +1,130 @@
+show tech-support cpu
+==========================================================================
+BEGIN : show cpu tasks
+CONTEXT : CONSOLE#0 : CPU/TASK
+TIME STAMP : 01:32:44.334 Pacific Wed Dec 09 2015
+HW/SW INFO : ICX7750-48F/SWR08040q078
+==========================================================================
+CPU Usage Information
+... Usage average for all tasks in the last 1 second ...
+==========================================================
+Name                                    %
+
+SigHdlrTsk                              0               
+OsTsk                                   0               
+TimerTsk                                0               
+FlashTsk                                0               
+MainTsk                                 0               
+MportPollTsk                            0               
+IntrTsk                                 0               
+stkKeepAlive                            0               
+keygen                                  0               
+itc                                     0               
+bcmDPC                                  0               
+bcmINTR                                 4               
+socdmadesc.0                            0               
+bcmCNTR.0                               0               
+bcmRX                                   2               
+bcmL2MOD.0                              0               
+scp                                     0               
+appl                                    80              
+snms                                    0               
+rtm                                     0               
+rtm6                                    0               
+rip                                     0               
+bgp                                     0               
+bgp_io                                  0               
+ospf                                    0               
+ospf_r_calc                             0               
+openflow_ofm                            0               
+openflow_opm                            0               
+mcast_fwd                               0               
+mcast                                   0               
+msdp                                    0               
+ripng                                   0               
+ospf6                                   0               
+ospf6_rt                                0               
+mcast6                                  0               
+ipsec                                   0               
+dhcp6                                   0               
+mecid                                   0               
+snmp                                    0               
+rmon                                    0               
+web                                     0               
+acl                                     0               
+spx                                     0               
+flexauth                                0               
+adm_tm                                  0               
+ntp                                     0               
+rconsole                                0               
+console                                 0               
+ospf_msg_task                           0               
+auxTsk                                  0               
+exUSBHotpluggerTsk                      0               
+bcmLINK.0                               5               
+
+CPU Utilization information.
+appl-task pid 1054 tid 0x55363330 cpu usage 80%
+console-task pid 1084 tid 0x55b5d330 cpu usage 0%
+flash-task pid 1039 tid 0x48da1330 cpu usage 0%
+sys-tmr-task pid 1038 tid 0x48d81330 cpu usage 0%
+itc-task pid 1045 tid 0x48f41330 cpu usage 0%
+loop cnt: 1658124015 1658223655 -> 99640
+read cnt: 59419971 59420144 -> 173
+loop rate = 99640/10 = 9964
+rcode_old = 100 - (100*9964/11250) = 12
+rcode_log2= 100-(100*log2(9964)/log2(11250))=1
+1/100 busy, from 35127 sec ago
+
+appl-task pid 1054 tid 0x55363330 cpu usage 80%
+console-task pid 1084 tid 0x55b5d330 cpu usage 0%
+flash-task pid 1039 tid 0x48da1330 cpu usage 0%
+sys-tmr-task pid 1038 tid 0x48d81330 cpu usage 0%
+itc-task pid 1045 tid 0x48f41330 cpu usage 0%
+loop cnt: 1658124015 1658223655 -> 99640
+read cnt: 59419971 59420144 -> 173
+loop rate = 99640/10 = 9964
+rcode_old = 100 - (100*9964/11250) = 12
+rcode_log2= 100-(100*log2(9964)/log2(11250))=1
+1/100 busy, from 0 sec ago
+
+appl-task pid 1054 tid 0x55363330 cpu usage 80%
+console-task pid 1084 tid 0x55b5d330 cpu usage 0%
+flash-task pid 1039 tid 0x48da1330 cpu usage 0%
+sys-tmr-task pid 1038 tid 0x48d81330 cpu usage 0%
+itc-task pid 1045 tid 0x48f41330 cpu usage 0%
+loop cnt: 1658124015 1658223655 -> 99640
+read cnt: 59419971 59420144 -> 173
+loop rate = 99640/10 = 9964
+rcode_old = 100 - (100*9964/11250) = 12
+rcode_log2= 100-(100*log2(9964)/log2(11250))=1
+1/100 busy, from 0 sec ago
+
+appl-task pid 1054 tid 0x55363330 cpu usage 80%
+console-task pid 1084 tid 0x55b5d330 cpu usage 0%
+flash-task pid 1039 tid 0x48da1330 cpu usage 0%
+sys-tmr-task pid 1038 tid 0x48d81330 cpu usage 0%
+itc-task pid 1045 tid 0x48f41330 cpu usage 0%
+loop cnt: 1658124015 1658223655 -> 99640
+read cnt: 59419971 59420144 -> 173
+loop rate = 99640/10 = 9964
+rcode_old = 100 - (100*9964/11250) = 12
+rcode_log2= 100-(100*log2(9964)/log2(11250))=1
+1/100 busy, from 0 sec ago
+
+appl-task pid 1054 tid 0x55363330 cpu usage 80%
+console-task pid 1084 tid 0x55b5d330 cpu usage 0%
+flash-task pid 1039 tid 0x48da1330 cpu usage 0%
+sys-tmr-task pid 1038 tid 0x48d81330 cpu usage 0%
+itc-task pid 1045 tid 0x48f41330 cpu usage 0%
+loop cnt: 1658124015 1658223655 -> 99640
+read cnt: 59419971 59420144 -> 173
+loop rate = 99640/10 = 9964
+rcode_old = 100 - (100*9964/11250) = 12
+rcode_log2= 100-(100*log2(9964)/log2(11250))=1
+1/100 busy, from 0 sec ago
+==========================================================================
+TIME STAMP : 01:32:44.335 Pacific Wed Dec 09 2015
+END : show cpu tasks
+TIME TAKEN : 9270 ticks (389340 nsec)
+==========================================================================
